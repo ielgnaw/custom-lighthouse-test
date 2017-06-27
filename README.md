@@ -4,5 +4,8 @@ custom-lighthouse-test
 Usage
 ---
 
-    npm i . // install dependencies
-    npm start // show result in command
+    # install dependencies
+    npm i . 
+
+    # show result in command
+    npm start 
